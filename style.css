@@ -99,7 +99,7 @@ p {
     margin:1rem;
     padding:2rem;
     border-radius: 0.5rem;
-    box-shadow: hsla(229, 6%, 66%, 50%) 2px 8px 1rem;
+    box-shadow: hsl(197deg 71% 30% / 10%) 0 8px 16px 4px;
 }
 
 .card__box h2 {
